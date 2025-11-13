@@ -1,3 +1,4 @@
-![character+2](https://github.com/user-attachments/assets/a3aab502-86e1-4492-a0ae-bdaca7a902ab)
-Basic lazyvim config for TALL stack
+<img width="150" height="150" alt="usagi" src="https://github.com/user-attachments/assets/a1912786-ff55-479c-9529-847256d90ba6" />
 
+
+Basic lazyvim config for TALL stack
