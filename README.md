@@ -1,3 +1,3 @@
-![alt text]([http://url/to/img.png](https://images.squarespace-cdn.com/content/v1/6670add926f2a64cd00fb0e7/380ff076-4839-4b29-bb0b-53887285d56d/character+2.png))
-
+![character+2](https://github.com/user-attachments/assets/a3aab502-86e1-4492-a0ae-bdaca7a902ab)
 Basic lazyvim config for TALL stack
+
